@@ -1,4 +1,4 @@
-# Photo_Sharing_App
+# Photo Sharing App
 
 
 This full-stack photo-sharing application implements logging-in, logging-out, uploading pictures, commenting, mentioning/tagging other users, etc. 
