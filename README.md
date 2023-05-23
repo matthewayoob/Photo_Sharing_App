@@ -1,7 +1,7 @@
 # Photo Sharing App
 
 
-This full-stack photo-sharing application implements logging-in, logging-out, uploading pictures, commenting, mentioning/tagging other users, etc. 
+This full-stack photo-sharing application implements logging-in, logging-out, uploading pictures, commenting, mentioning/tagging other users, etc. Here's a video of testing functionality before implementing front-end aeshetics, https://youtu.be/eoYiUi_SXZU. 
 
 It was developed incrementally:
 
