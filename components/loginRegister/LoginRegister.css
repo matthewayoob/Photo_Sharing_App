@@ -1,0 +1,9 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: "center";
+}
+.status {
+  height: 60;
+  /* position: relative;
+  width: 800; */
+}

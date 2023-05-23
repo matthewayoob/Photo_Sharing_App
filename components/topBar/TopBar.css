@@ -1,0 +1,15 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: "center";
+}
+.uploader {
+  margin-left: 5%;
+}
+.status {
+  height: 60;
+  /* position: relative;
+  width: 800; */
+}
+.button {
+  background-color: aqua;
+}
