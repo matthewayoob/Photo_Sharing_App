@@ -1,0 +1,42 @@
+CS142 Project 8 - Submission Form
+************************************ Submission ***********************************
+* 
+* Story number and name:  1 - Extend user profile detail with usage 
+* Story points:  3
+* Brief description to see the story in action:
+* See the most recently uploaded photo and the photo with the most comments
+* as a part of the userDetail view
+*
+* Story number and name:  2 - @mentions in comments
+* Story points:  6
+* Brief description to see the story in action:
+* Tag existing users in the comment section via a dropdown menu. The tagging will
+* be reflected in the tagged person's userDetail with a small preview and a link to the 
+* original photo poster's userDetail
+*
+*
+* Story number and name:  5 - Deleting Comments, Photos, and Users
+* Story points:  4
+* Brief description to see the story in action:
+* As a logged in user, you can delete any of your comments, photos, or your entire account
+* (all of user, photos, and comments), and these changes will be reflected throughout the app
+* 
+* Total Story Points: 13
+* 
+* Marketing Video URL (ensure permissions are set to public viewing):
+* https://www.youtube.com/watch?v=eoYiUi_SXZU&feature=youtu.be
+* 
+* Is it OK if we post your Marketing Video URL on the class discussion forum?
+* No
+* 
+* Any special instructions for grading (it should be easy for someone to run
+* your app from a new machine):
+* (using Mentions MUI): npm install react-mentions --save 
+*
+* How I start my project: 
+* Terminal 1: Npm install 
+* Terminal 1: node loadDatabase.js
+* Terminal 1: node_modules/.bin/nodemon webServer.jsx
+* Terminal 2: npm run build
+
+************************************ Submission ***********************************
